@@ -7,9 +7,6 @@ Blue
 Green
 Unicorn
 Yellow
-Indigo
-Recycle!
 Red
 These are the colors of the rainbow.
 And the Unicorn.
-Pony
